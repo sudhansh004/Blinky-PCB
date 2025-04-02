@@ -1,5 +1,6 @@
 # LED blinking circuit using 7555 timer IC
 
+![PCB Rendering](https://github.com/sudhansh004/Blinky-PCB/blob/main/blinky.png) 
 
 This project contains the KiCad PCB design files for a simple led blinking circuit using a 7555 Timer IC. The circuit blinks the LED at a fixed frequency using an **astable multivibrator configuration**.
 
